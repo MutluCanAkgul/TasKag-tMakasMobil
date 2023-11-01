@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TasKagıtMakasMobil.MainPage">
+
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+        <Label Text="" x:Name="Skor" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center"/>
+        <StackLayout Orientation="Horizontal" Spacing="20"  HorizontalOptions="Center">
+            <Label Text="Bilgisayarın Seçimi = " FontSize="18" FontAttributes="Bold"/>
+            <Label Text="" x:Name="SecimLabel" FontSize="20" FontAttributes="Bold" />
+        </StackLayout>
+        <StackLayout>
+            <Label Text="" x:Name="Durum" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" Padding="0,0,0,10" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" HeightRequest="100" Spacing="15">
+            <Button Clicked="Tas" CornerRadius="10"  Text="Taş" FontSize="20" BackgroundColor="YellowGreen" WidthRequest="100"  FontAttributes="Bold" />
+            <Button Clicked="Kagıt" CornerRadius="10"  Text="Kağıt" FontSize="20" BackgroundColor="YellowGreen" WidthRequest="100"  FontAttributes="Bold"/>
+            <Button Clicked="Makas" CornerRadius="10"  Text="Makas" FontSize="20" BackgroundColor="YellowGreen" WidthRequest="100"  FontAttributes="Bold"/>
+        </StackLayout>
+        <StackLayout Padding="0,15,0,0">
+            <Button Text="Yeniden Başlat" Clicked="RestartGame" FontSize="20" BackgroundColor="Blue"  FontAttributes="Bold" FontFamily="Verdana" CornerRadius="10"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

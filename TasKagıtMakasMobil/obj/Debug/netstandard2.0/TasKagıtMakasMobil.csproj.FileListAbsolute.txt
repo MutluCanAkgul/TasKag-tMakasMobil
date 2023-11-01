@@ -1,0 +1,15 @@
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\TasKagıtMakasMobil.csproj.AssemblyReference.cache
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\TasKagıtMakasMobil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\TasKagıtMakasMobil.AssemblyInfoInputs.cache
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\TasKagıtMakasMobil.AssemblyInfo.cs
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\TasKagıtMakasMobil.csproj.CoreCompileInputs.cache
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\TasKagıtMakasMobil.dll
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\refint\TasKagıtMakasMobil.dll
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\TasKagıtMakasMobil.pdb
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\bin\Debug\netstandard2.0\TasKagıtMakasMobil.deps.json
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\bin\Debug\netstandard2.0\TasKagıtMakasMobil.dll
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\bin\Debug\netstandard2.0\ref\TasKagıtMakasMobil.dll
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\bin\Debug\netstandard2.0\TasKagıtMakasMobil.pdb
+C:\Users\Mutlucan\source\repos\TasKagıtMakasMobil\TasKagıtMakasMobil\obj\Debug\netstandard2.0\XamlC.stamp

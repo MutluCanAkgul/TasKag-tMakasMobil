@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VRvXI6qX3ITxzHrTumwFdksCw3isxiJtkrmVt0TUdsOrz6yChpLO+0PXNWCSbsWsd/kQLmU2OI83CquiXluIvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mutlucan\\source\\repos\\TasKagıtMakasMobil\\TasKagıtMakasMobil.iOS\\TasKagıtMakasMobil.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mutlucan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mutlucan\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Mutlucan\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
